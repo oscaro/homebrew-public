@@ -18,6 +18,6 @@ If the formula conflicts with one from another tap, you have to fully-qualify it
 
 ## About
 
-This repo is inspired by [Spotify’s `homebrew-public` repository][spotify].
+This is inspired by [Spotify’s `homebrew-public` repository][spotify].
 
 [spotify]: https://github.com/spotify/homebrew-public
