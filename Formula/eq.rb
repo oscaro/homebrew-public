@@ -5,7 +5,7 @@ class Eq < Formula
     :nounzip => true
   sha256 "ce91294f513cca5c714e372ee9623d5dde11a29fd0bd6f73290fcf6e9956078c"
 
-  depends_on "node" => :run
+  depends_on "node"
 
   def install
     bin.install "eq.js" => "eq"
